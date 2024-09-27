@@ -1,6 +1,6 @@
-# music_player
+# WhatsApp UI Clone
 
-A new Flutter project.
+A Flutter project that replicates the user interface of WhatsApp, providing a sleek and intuitive design similar to the original app. This project demonstrates key Flutter concepts such as navigation, list views, and Cupertino design elements.
 
 ## Getting Started
 
